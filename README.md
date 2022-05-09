@@ -1,6 +1,7 @@
 # Fast disparity range estimation method
 
-This implementation is inspired by the paper： Edge-Preserving Stereo Matching Using Minimum Spanning Tree
+This implementation is inspired by the paper： "Edge-Preserving Stereo Matching Using Minimum Spanning Tree"
+
 Link to paper: https://ieeexplore.ieee.org/document/8930525
 
 This repository only contains implementation of fast disparity range estimation method:
