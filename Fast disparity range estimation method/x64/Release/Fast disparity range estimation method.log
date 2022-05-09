@@ -1,0 +1,71 @@
+﻿  fast disparity range estimation method.cpp
+D:\software\opencv_320_cmake\include\opencv2\core\mat.hpp(2586,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\software\opencv_320_cmake\include\opencv2\core\persistence.hpp(1,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\software\opencv_320_cmake\include\opencv2\core\utility.hpp(1,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\software\opencv_320_cmake\include\opencv2\core\utility.hpp(1,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\software\opencv_320_cmake\include\opencv2\imgproc.hpp(592,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(113,29): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(113,29): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(113,29): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(113,29): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(113,29): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(114,31): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(114,31): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(114,31): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(114,31): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(114,31): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(115,29): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(115,29): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(115,29): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(115,29): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(115,29): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(116,31): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(116,31): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(116,31): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(116,31): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(116,31): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(118,15): warning C4244:  “=”: 从“float”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(130,30): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(130,30): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(130,30): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(130,30): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(130,30): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(103,6): warning C4101:  “minn”: 未引用的局部变量
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(110,43): warning C4101:  “dd1”: 未引用的局部变量
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(110,39): warning C4101:  “dd”: 未引用的局部变量
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(181,29): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(181,29): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(181,29): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(181,29): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(181,29): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(182,31): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(182,31): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(182,31): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(182,31): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(182,31): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(183,29): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(183,29): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(183,29): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(183,29): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(183,29): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(184,31): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(184,31): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(184,31): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(184,31): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(184,31): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(186,15): warning C4244:  “=”: 从“float”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(198,30): warning C4244:  “=”: 从“_Tp”转换到“int”，可能丢失数据
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(198,30): warning C4244:         with
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(198,30): warning C4244:         [
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(198,30): warning C4244:             _Tp=float
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(198,30): warning C4244:         ]
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(178,43): warning C4101:  “dd1”: 未引用的局部变量
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(178,39): warning C4101:  “dd”: 未引用的局部变量
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(231,22): warning C4101:  “min1”: 未引用的局部变量
+F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\Fast disparity range estimation method\fast disparity range estimation method.cpp(231,16): warning C4101:  “max1”: 未引用的局部变量
+  正在生成代码
+  1 of 310 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Fast disparity range estimation method.vcxproj -> F:\【91】使用FLANN进行特征点匹配\91_使用FLANN进行特征点匹配\Fast disparity range estimation method\x64\Release\Fast disparity range estimation method.exe
